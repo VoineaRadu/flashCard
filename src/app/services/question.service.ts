@@ -12,8 +12,4 @@ export class QuestionService {
   loadQuestions(fileName: string): Observable<Question[]> {
     return this.http.get<Question[]>(`/assets/questions/${fileName}.json`);
   }
-
-  getAvailableQuestionFiles(): string[] {
-    return ['sample'];
-  }
 }
