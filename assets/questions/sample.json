@@ -108,5 +108,346 @@
       "Toate răspunsurile sunt corecte"
     ],
     "correctAnswer": 1
+  },
+  {
+    "question": "În ce grupă și în ce perioadă se află elementul chimic E cu configurație electronică [Ar]4s23d104p3:",
+    "options": [
+      "Grupa 15 și perioada 2",
+      "Grupa 10 și perioada 4",
+      "Grupa 15 și perioada 4",
+      "Grupa 12 și perioada 4",
+      "Grupa 4 și perioada 3"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Metode de analiză volumetrică",
+    "options": [
+      "Se referă la modalitățile de calibrare a instrumentelor de laborator folosite pentru măsurarea volumelor",
+      "Se bazează pe măsurarea exactă a volumului de soluție de analit consumat în reacție cu etalonul",
+      "Sunt metode analitice cantitative, bazate pe măsurarea volumelor de soluții de analiți",
+      "Sunt metode de analiză calitativă",
+      "Se bazează pe măsurarea exactă a volumului de soluție etalon consumat în reacție cu analitul"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Într-un ion divalent pozitiv, M2+, numărul electronilor este",
+    "options": [
+      "Egal cu cel al neutronilor",
+      "Cu două unități mai mic decât numărul protonilor",
+      "Cu două unități mai mare decât numărul protonilor",
+      "Egal cu cel al protonilor",
+      "Egal cu suma protonilor și neutronilor"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Metodele de analiză volumetrică:",
+    "options": [
+      "Se bazează pe măsurarea exactă a volumului de soluție de analit consumat în reacție cu etalonul",
+      "Sunt metode de analiză calitativă",
+      "Se bazează pe măsurarea exactă a volumului de soluție etalon consumat în reacție cu analitul",
+      "Sunt metode analitice cantitative, bazate pe măsurarea volumelor de soluții de analiți",
+      "Se referă la modalitățile de calibrare a instrumentelor de laborator folosite pentru măsurarea volumelor"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "În cazul unei soluții aproximative:",
+    "options": [
+      "Titrul real este calculat ca diferența dintre titrul teoretic și factorul de corecție",
+      "Titrul real poate fi diferit de titruteoretic",
+      "Titrul real este egal cu titrul teoretic",
+      "Titrul real nu se poate determina",
+      "Titrul real este calculat ca fiind raportul dintre titrul teoretic și factorul de corecție"
+    ],
+    "correctAnswer": 5
+  },
+  {
+    "question": "Care din următoarele serii conțin numai substanțe care formează rețele ionice?",
+    "options": [
+      "NaCl, BaO, Ne",
+      "NaOH, AgCl, HCl",
+      "NH4Cl, He, CaO",
+      "CaSO4, diamant, He",
+      "AgNO3, KOH, NaF"
+    ],
+    "correctAnswer": 5
+  },
+  {
+    "question": "Masa electronului este",
+    "options": [
+      "Mai mare ca a neutronului",
+      "Egală cu numărul de masă al atomului de hidrogen",
+      "Egală cu diferența dintre masa deuteriului și a protonului",
+      "Egală cu a protonului",
+      "Mult mai mică decât cea a protonului sau a neutronului"
+    ],
+    "correctAnswer": 5
+  },
+  {
+    "question": "Câți electroni are în stratul 3 un element cu următoarea configurație: 1s22s22p63s23p64s13d5:",
+    "options": [
+      "8 electroni",
+      "2 electroni",
+      "6 electroni",
+      "13 electroni",
+      "14 electroni"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Paharul Berzelius este un instrument de laborator:",
+    "options": [
+      "Folosit pentru a stoca pe termen mediu și lung reactivi și soluții",
+      "Cu care se pot măsura cu precizie volumele de soluții",
+      "Folosit cu precădere în operația de titrare",
+      "Folosit cu precădere pentru a dizolva substanțe, deoarece permite introducerea unei baghete de sticlă pentru omogenizare",
+      "Folosit în special pentru efectuarea reacțiilor, deoarece gâtul său îngust diminuează riscul de a produce stropi"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Entropia este o măsură a",
+    "options": [
+      "Gradului de dezordine internă a unui sistem",
+      "Energiei interne a unui sistem",
+      "A lucrului efectuat de către un sistem pentru a ajunge din starea inițială în starea finală",
+      "A entalpiei unui sistem",
+      "Energiei libere Gibbs"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Viteza unei reacții chimice:",
+    "options": [
+      "Depinde exclusiv de concentrația reactanților",
+      "Este negativ influențată de pH",
+      "Este independentă de presiunea mediului de reacție",
+      "Este independentă de temperatura mediului de reacție",
+      "Poate fi evaluată prin monitorizarea consumului de reactanți sau formării de produși de reacție în unitatea de timp"
+    ],
+    "correctAnswer": 5
+  },
+  {
+    "question": "În spectrofotometrie, absorbanta și transmitanța:",
+    "options": [
+      "Sunt parametri adimensionali interdependenți",
+      "Sunt parametri dimensionali, măsurați în nanometri, interdependenți",
+      "Sunt parametri dimensionali, măsurați în nanometri, independenți unul de celălalt",
+      "Sunt parametri utilizați în vederea stabilirii conductivității electrice a soluțiilor",
+      "Sunt parametri adimensionali, independenți unul de celălalt"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Proprietățile fizice neperiodice ale unui element sunt:",
+    "options": [
+      "Valența",
+      "Raza atomică și raza ionicǎ",
+      "Caracterul electropozitiv",
+      "Numărul atomic și masa",
+      "Energia de ionizare atomică"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Electronii cuplați reprezintă:",
+    "options": [
+      "Electronii ns1 ai metalelor alcaline",
+      "Electronii cu spin opus din doi orbitali diferiți",
+      "Doi electroni cu același spin din orbitali diferiți",
+      "Electronii acceptați de un atom la formarea unui anion",
+      "Doi electroni cu spin opus dintr-un orbital atomic"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Substratul p este format din:",
+    "options": [
+      "3 orbitali",
+      "5 orbitali",
+      "4 orbitali",
+      "7 orbitali",
+      "Un orbital"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Care din următoarele serii conțin numai substanțe care formează rețele ionice?:",
+    "options": [
+      "NaCl, BaO, Ne",
+      "NaOH, Ag, Cl",
+      "NH4, He, CaO",
+      "CaSO4, diamant, He",
+      "AgNO3, KOH, NaF"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Atomul de Fe cu Z=26 are următoarea configurație electronică 1s22s22p63s23p64s23d6. Atunci ionul de Fe3+ are în stratul 3 un număr de:",
+    "options": [
+      "13 electroni",
+      "14 electroni",
+      "2 electroni",
+      "6 electroni",
+      "8 electroni"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Cu ajutorul unui calorimetru se măsoară:",
+    "options": [
+      "Volumul final de reacție",
+      "Entropia unei reacții chimice",
+      "Presiunea la care are loc reacția chimică",
+      "Energia liberă Gibbs a reacției chimice",
+      "Variația de temperatură din timpul desfășurării unei reacții chimice la presiune constantă"
+    ],
+    "correctAnswer": 5
+  },
+  {
+    "question": "Elementele din aceeași perioadă au:",
+    "options": [
+      "Același număr de electroni pe ultimul strat",
+      "Același număr de electroni de valență",
+      "Același număr de electroni pe substraturile ultimului strat",
+      "Număr diferit de straturi electronice",
+      "Același număr de straturi electronice"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Un proces endoterm este caracterizat de:",
+    "options": [
+      "S > 0",
+      "S H > 0",
+      "S G > 0",
+      "S H < 0",
+      "S < 0"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Operația de titrare reprezintă:",
+    "options": [
+      "Procedura de adăugare treptată a unui volum de titrant ce poate fi măsurat peste proba de analizat, până când analitul se consumă complet în reacție cu titrantul",
+      "Procedura de adăugare rapidă a probei de analizat peste un volum cunoscut de titrant",
+      "O procedură ce implică măsurarea soluțiilor de titrant cu ajutorul cilindrelor gradate",
+      "Are ca rezultat aflarea titrului unei soluții, ca raportul dintre volumul de soluție etalon consumată și volumul de soluție aproximativă luată în lucru",
+      "Modalitatea de determinare a titrului teoretic al unei soluții de analit"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Care din seriile următoare conțin numai substanțe al căror echivalent chimic se calculează împărțind masa moleculară (atomică) la cifra 2:",
+    "options": [
+      "Fe, Ba(NO3)2, HB",
+      "NaNO3, CaCO3, BeCl2",
+      "Ba(OH)2, CuSO4, Ca",
+      "H4SiO4, Zn(OH)2, MnSO4",
+      "FeS, Cr2(SO4)3, KBr"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Un compus este solubil dacă conține halogenuri cu excepția celor ce conțin cationii:",
+    "options": [
+      "Cs+ și Na+",
+      "Ag+ și Pb2+",
+      "Na+ și NH4+",
+      "K+ și Li+",
+      "Rb+ și Li+"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Alegeți afirmația falsă cu privire la entalpie:",
+    "options": [
+      "Entalpia este o funcție de stare",
+      "H = U + nRT",
+      "La presiune constantă ΔH = Q",
+      "Entalpia este un parametru de drum",
+      "H = U + pV"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Energia de activare:",
+    "options": [
+      "Reprezintă puterea maximă energetică poate fi atinsă de complexul activat la reacționarea necesară pentru a putea forma produs",
+      "Este influențată negativ de concentrația reacțională",
+      "Reprezintă necesitatea minimă a energiei, care trebuie să fie atinsă de complexul activat și care să reacționeze pentru o formă posibilă de produs",
+      "Creșterea unei temperaturi medii în ceea ce privește acordarea creanței de asemenea",
+      "Scade dacă temperatura mediană poate ajunge la creștere"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Câți electroni are în stratul 3 un element cu următoarea configurație: 1s22s22p63s23p64s13d5:",
+    "options": [
+      "2 electroni",
+      "13 electroni",
+      "14 electroni",
+      "6 electroni",
+      "8 electroni"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Dintre speciile următoare I2, HBr, H2O, NH3, H2S, sunt molecule nepolare:",
+    "options": [
+      "I2",
+      "HBr",
+      "H2O",
+      "NH3",
+      "H2S"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "La baza construirii termometrului a stat:",
+    "options": [
+      "Principiul zero al termodinamicii",
+      "Principiul întâi al termodinamicii",
+      "Principiul al doilea al termodinamicii",
+      "Principiul al treilea al termodinamicii",
+      "Principiul al patrulea al termodinamicii"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Alegeți afirmația incorectă cu privire la condițiile pe care trebuie să le îndeplinească un indicator de pH:",
+    "options": [
+      "Indicatorul să fie solubil în apă cu alcool",
+      "Schimbare de culoare să se producă brusc, într-un interval de pH cât mai mic",
+      "Schimbare de culoare să se producă la adaosul unei cantități mari de acid sau bază",
+      "Schimbarea de culoare să fie reversibilă",
+      "Indicatorul să fie foarte sensibil la modificarea pH-ului pentru a putea fi folosit în cantități mici"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Elementele din grupele principale ale sistemului periodic au pe ultimul strat un număr de electroni egal cu numărul:",
+    "options": [
+      "Atomic",
+      "Perioadei",
+      "Neutronilor",
+      "Grupei",
+      "Protonilor"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Factorul de corecție:",
+    "options": [
+      "Este egal cu 0 în cazul soluțiilor etalon",
+      "Trebuie determinat experimental în cazul soluțiilor etalon secundare (soluții standardizate)",
+      "Este produsul dintre titrul real și cel teoretic al unei soluții",
+      "Are valoarea 0, 1 sau 2",
+      "Este întotdeauna egal cu 1 în cazul soluțiilor aproximative"
+    ],
+    "correctAnswer": 1
   }
 ]
