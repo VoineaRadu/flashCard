@@ -10,6 +10,6 @@ export class QuestionService {
   constructor(private http: HttpClient) {}
 
   loadQuestions(fileName: string): Observable<Question[]> {
-    return this.http.get<Question[]>(`/assets/questions/${fileName}.json`);
+    return this.http.get<Question[]>(`assets/questions/${fileName}.json`);
   }
 }
