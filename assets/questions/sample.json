@@ -96,7 +96,7 @@
       "A lucrului efectuat de către un sistem pentru a ajunge din starea inițială în starea finală",
       "A entalpiei unui sistem"
     ],
-    "correctAnswer": 4
+    "correctAnswer": 2
   },
   {
     "question": "Un sistem închis:",
@@ -396,7 +396,7 @@
     "correctAnswer": 1
   },
   {
-    "question": "Alegeți afirmația incorectă cu privire la condițiile pe care trebuie să le îndeplinească un indicator de pH:",
+    "question": "Alegeți afirmația corecta cu privire la condițiile pe care trebuie să le îndeplinească un indicator de pH:",
     "options": [
       "Indicatorul să fie solubil în apă cu alcool",
       "Schimbare de culoare să se producă brusc, într-un interval de pH cât mai mic",

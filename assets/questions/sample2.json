@@ -218,5 +218,1055 @@
       "Valența unui element de tranziție"
     ],
     "correctAnswer": 1
+  },
+  {
+    "question": "Alegeți afirmația incorectă cu privire la condițiile pe care trebuie să le îndeplinească un indicator de pH:",
+    "options": [
+      "Indicatorul să fie foarte sensibil la modificarea pH-ului pentru a putea fi folosit în cantități mici",
+      "Indicatorul trebuie să aibă o culoare intensă în orice pH",
+      "Indicatorul nu trebuie să reacționeze cu soluția analizată",
+      "Indicatorul trebuie să aibă același punct de fierbere cu apa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Alegeți afirmația falsă cu privire la entalpie:",
+    "options": [
+      "H = U + nRT",
+      "Entalpia este o funcție de stare",
+      "Entalpia este utilizată în calculele la presiune constantă",
+      "H = U + pV"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Reacția chimică utilizată în permanganometrie este o reacție de:",
+    "options": [
+      "Oxido-reducere (redox)",
+      "Neutralizare",
+      "Precipitare",
+      "Formare de complex"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În cazul unei reacții chimice ce decurge la p și T constante, variația energiei libere Gibbs (ΔG) este egală cu:",
+    "options": [
+      "Variația entropiei",
+      "Afinitatea chimică negativă",
+      "Presiunea înmulțită cu volumul",
+      "Energie internă totală"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "O soluție cu pH=10 are caracter:",
+    "options": [
+      "Bazic",
+      "Acid",
+      "Neutru",
+      "Amfoter"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Termometrul funcționează pe baza:",
+    "options": [
+      "Principiului 0",
+      "Legii lui Ohm",
+      "Legii lui Boyle",
+      "Legei lui Hess"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Compusul cu formula Cu₂O are următoarea denumire:",
+    "options": [
+      "Oxid de cupru (II)",
+      "Oxid de cupru (I)",
+      "Dioxid de cupru",
+      "Cuprat de sodiu"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Cu ajutorul unui calorimetru se măsoară:",
+    "options": [
+      "Variația de temperatură din timpul desfășurării unei reacții chimice la presiune constantă",
+      "Concentrația soluției",
+      "Timpul de reacție",
+      "Volumul gazului eliberat"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Reacțiile de ordinul 0 sunt:",
+    "options": [
+      "Reacții a căror viteză nu depinde de concentrația reactantului",
+      "Reacții care depind de presiunea absolută",
+      "Reacții imposibil de cuantificat",
+      "Reacții care implică doar catalizatori"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În cazul reacțiilor de ordinul 2, timpul de înjumătățire (t1/2):",
+    "options": [
+      "Este timpul necesar pentru ca valoarea concentrației reactantului să scadă la jumătate din valoarea finală",
+      "Este mereu constant",
+      "Este invers proporțional cu volumul",
+      "Nu poate fi determinat"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Cu ajutorul unui balon cotat:",
+    "options": [
+      "Se pot obține soluții exacte deoarece adus la semn, va conține exact volumul notat pe instrument",
+      "Se pot realiza distilări simple",
+      "Se poate evapora solventul",
+      "Se poate amesteca soluția prin agitare puternică"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Masa electronului este:",
+    "options": [
+      "Mult mai mică decât cea a protonului sau a neutronului",
+      "Egală cu cea a protonului",
+      "Aproximativ dublă față de cea a protonului",
+      "Similară cu masa neutronului"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Domeniul de viraj al unui indicator de pH:",
+    "options": [
+      "Reprezintă intervalul de pH în care are loc o modificare de culoare a acestuia",
+      "Este mereu între pH 6-8",
+      "Este o constantă universală",
+      "Reprezintă masa molară a indicatorului"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Alegeți afirmația falsă cu privire la entalpie:",
+    "options": [
+      "Entalpia este un parametru de drum",
+      "Entalpia este o funcție de stare",
+      "Entalpia se măsoară în jouli",
+      "Entalpia poate fi pozitivă sau negativă"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Compusul cu formula NaHSO₃ are următoarea denumire:",
+    "options": [
+      "Sulfat acid de sodiu",
+      "Sulfit de sodiu",
+      "Tiosulfat de sodiu",
+      "Bicarbonat de sodiu"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Pipeta gradată este folosită pentru:",
+    "options": [
+      "Transferul de volume",
+      "Determinarea masei",
+      "Filtrarea substanțelor",
+      "Încălzirea soluțiilor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Energia de activare:",
+    "options": [
+      "Reprezintă nivelul energetic minim ce trebuie atins de complexul activat al reactanților pentru a putea forma produși",
+      "Este energia totală a reactanților",
+      "Este temperatura la care reacția începe",
+      "Este masa totală a reactivilor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Legătura chimică din H₂S este:",
+    "options": [
+      "Covalentă nepolară",
+      "Ionică",
+      "Metalică",
+      "Dublă polară"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "O soluție tampon de pH:",
+    "options": [
+      "Nu permite variații bruște de pH, și îl menține constant într-un interval îngust, bine definit",
+      "Este întotdeauna neutră",
+      "Are pH mare indiferent de concentrație",
+      "Are pH egal cu zero"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Variația energiei interne a sistemului (dU) este dată de variația ei în funcție de:",
+    "options": [
+      "Compoziție (ni) atunci când T și V sunt constante",
+      "Presiune și volum",
+      "Timp și spațiu",
+      "Numărul de electroni"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În acidimetrie, titrantul este:",
+    "options": [
+      "O bază tare",
+      "Un oxid metalic",
+      "Un acid slab",
+      "O sare solubilă"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Entropia este o măsură a:",
+    "options": [
+      "Gradului de dezordine internă a unui sistem",
+      "Cantității de energie liberă",
+      "Numărului de reacții chimice posibile",
+      "Capacității de neutralizare"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În general, viteza unei reacții chimice:",
+    "options": [
+      "Este influențată pozitiv de creșterea temperaturii mediului de reacție",
+      "Este întotdeauna constantă",
+      "Scade cu creșterea presiunii",
+      "Nu depinde de temperatură"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Timpul de înjumătățire (t1/2):",
+    "options": [
+      "Reprezintă timpul necesar pentru ca valoarea concentrației reactantului să scadă la jumătate din valoarea inițială",
+      "Este durata totală a reacției",
+      "Este întotdeauna egal cu 1 minut",
+      "Reprezintă timpul de atingere a echilibrului chimic"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Balonul cotat este un instrument de laborator folosit pentru:",
+    "options": [
+      "Obținerea de soluții exacte",
+      "Determinarea masei molare",
+      "Distilarea amestecurilor",
+      "Filtrarea soluțiilor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Viteza unei reacții chimice:",
+    "options": [
+      "Poate fi evaluată prin monitorizarea consumului de reactanți sau formării de produși de reacție în unitatea de timp",
+      "Se exprimă doar în secunde",
+      "Este o constantă universală",
+      "Este întotdeauna zero"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "3 straturi - 15 se referă la:",
+    "options": [
+      "Numărul total de electroni într-un atom cu 3 straturi",
+      "Numărul de orbitali disponibili în ultimul strat",
+      "Numărul de legături posibile ale atomului",
+      "Masa atomică"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În învelișul electronic al unui atom sunt:",
+    "options": [
+      "Electroni",
+      "Protoni",
+      "Neutroni",
+      "Ioni pozitivi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Legile termochimiei includ:",
+    "options": [
+      "Legea lui Hess, Kirchoff, Lavoisier-Laplace",
+      "Legea lui Raoult, Boyle, Avogadro",
+      "Legea lui Dalton, Faraday, Le Chatelier",
+      "Legea lui Pascal, Henry, Bohr"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Metodele de analiză volumetrică:",
+    "options": [
+      "Sunt metode analitice cantitative, bazate pe măsurarea volumelor de soluții de analiți",
+      "Sunt metode calitative pentru identificarea substanțelor",
+      "Sunt metode de distilare și filtrare",
+      "Sunt tehnici de separare a izotopilor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Compusul cu formula P₄S₃ are următoarea denumire:",
+    "options": [
+      "Trisulfură de tetrafosfor",
+      "Sulfat de fosfor",
+      "Fosfit de sulf",
+      "Sulfură de monofosfor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Un catalizator:",
+    "options": [
+      "Accelerează doar reacțiile posibile din punct de vedere termodinamic",
+      "Poate transforma reacțiile imposibile în posibile",
+      "Este consumat în timpul reacției",
+      "Scade energia produsului final"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Într-un calorimetru, căldura eliberată de o reacție chimică:",
+    "options": [
+      "Se măsoară în ℃",
+      "Se măsoară în grame",
+      "Se măsoară în litri",
+      "Se măsoară în grade Kelvin"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Alegeți afirmația falsă cu privire la numărul de oxidare (NO):",
+    "options": [
+      "Hidrogenul are în general NO egal cu +1 (plus unu)",
+      "Oxigenul are în general NO egal cu -2",
+      "NO este o valoare convențională",
+      "NO se poate determina din configurația electronică"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Elementele din aceeași perioadă au:",
+    "options": [
+      "Același număr de straturi electronice",
+      "Același număr de electroni de valență",
+      "Aceeași masă atomică",
+      "Aceeași electronegativitate"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Entropia este o măsură a:",
+    "options": [
+      "Gradului de dezordine",
+      "Reactivității chimice",
+      "Capacității termice",
+      "Conductivității electrice"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Numărul atomic (Z) reprezintă:",
+    "options": [
+      "Numărul protonilor din nucleu",
+      "Numărul electronilor liberi",
+      "Numărul de izotopi",
+      "Numărul de neutroni"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În analiza volumetrică bazată pe reacții de neutralizare, indicatorul de pH cel mai potrivit:",
+    "options": [
+      "Este permanganatul de potasiu, deoarece este un autoindicator",
+      "Este albastrul de metilen",
+      "Este fenolftaleina în toate cazurile",
+      "Este iodul"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Reacția chimică în acidimetrie este o reacție de:",
+    "options": [
+      "Neutralizare",
+      "Redox",
+      "Precipitare",
+      "Complexare"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În ce grupă și în ce perioadă se află elementul chimic E cu configurație electronică [Ar]4s2 3d10 4p3:",
+    "options": [
+      "Grupa 15 și perioada 4",
+      "Grupa 3 și perioada 5",
+      "Grupa 14 și perioada 3",
+      "Grupa 6 și perioada 2"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Compusul cu formula (NH₄)₃P are următoarea denumire:",
+    "options": [
+      "Fosfură de amoniu",
+      "Fosfat de amoniu",
+      "Fosfit de amoniu",
+      "Amoniac fosforic"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Alegeți afirmația falsă:",
+    "options": [
+      "Într-un atom, numărul electronilor este diferit de numărul protonilor",
+      "Atomul este neutru din punct de vedere electric",
+      "Numărul electronilor este egal cu numărul protonilor în starea fundamentală",
+      "Sarcina nucleului este pozitivă"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Regula lui Hund se referă la completarea cu electroni:",
+    "options": [
+      "A orbitalilor care fac parte din același substrat",
+      "A orbitalilor moleculari",
+      "A nivelurilor de energie superioare",
+      "A tuturor orbitalilor simultan"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Energia de activare:",
+    "options": [
+      "Reprezintă nivelul energetic minim ce trebuie atins de complexul activat al reactanților pentru a putea forma produși",
+      "Este energia produsului final",
+      "Este nivelul de energie al reagentului",
+      "Este o constantă universală"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În cazul unei soluții aproximative:",
+    "options": [
+      "Titrul real este calculat ca fiind raportul dintre titrul teoretic și factorul de corecție",
+      "Volumul soluției este necunoscut",
+      "Concentrația este exprimată în pH",
+      "Soluția nu poate fi standardizată"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Într-un ion divalent pozitiv:",
+    "options": [
+      "Are cu 2 unități mai puțin decât atomul neutru",
+      "Are 2 neutroni în plus",
+      "Are 2 electroni în plus",
+      "Are sarcină negativă"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Numărul atomic Z reprezintă:",
+    "options": [
+      "Numărul protonilor din nucleu",
+      "Numărul electronilor de valență",
+      "Numărul total de particule",
+      "Numărul de molecule"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Valorile entalpiilor standard de combustie:",
+    "options": [
+      "Sunt negative",
+      "Sunt pozitive",
+      "Depind de masa molară",
+      "Sunt egale cu zero"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Fenolftaleina este:",
+    "options": [
+      "Un indicator de pH, incolor la pH acid și roz aprins la pH alcalin",
+      "Un reactiv redox",
+      "Un catalizator",
+      "Un compus de complexare"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Care din următoarele afirmații este falsă?",
+    "options": [
+      "Într-un atom, numărul electronilor este diferit de numărul protonilor",
+      "Atomul este electric neutru",
+      "Protonii au sarcină pozitivă",
+      "Electronii au sarcină negativă"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Pentru obținerea unei soluții etalon, etapele ce trebuie parcurse, în ordine, sunt:",
+    "options": [
+      "Cântărirea substanței la balanța analitică, dizolvarea substanței în paharul Berzelius, trecerea analitică într-un balon cotat și aducerea volumului la semn",
+      "Măsurarea volumului, turnarea directă în balon, agitare",
+      "Diluația substanței, centrifugare, turnare în balon cotat",
+      "Dizolvare directă în balon cotat, fără cântărire"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Metodele de analiză volumetrică:",
+    "options": [
+      "Se bazează pe măsurarea exactă a volumului de soluție etalon consumat în reacție cu analitul",
+      "Sunt metode calitative",
+      "Folosesc spectroscopie",
+      "Sunt folosite doar în biologie"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Concentrația procentuală exprimată ca masă la volum a unei soluții reprezintă:",
+    "options": [
+      "Cantitatea în grame de substanță dizolvată în 100 ml de soluție",
+      "Volumul în mililitri per gram de substanță",
+      "Numărul de moli în 1 litru de solvent",
+      "Raportul masă/masă"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Proprietăți fizice neperiodice:",
+    "options": [
+      "Număr atomic și masă atomică",
+      "Electronegativitate și volum atomic",
+      "Punct de topire și punct de fierbere",
+      "Afinitate electronică și caracter amfoter"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În ce grupă și în ce perioadă se află elementul cu configurație [Kr]5s1 4d10:",
+    "options": [
+      "Grupa 12 și perioada 4",
+      "Grupa 11 și perioada 5",
+      "Grupa 10 și perioada 3",
+      "Grupa 13 și perioada 4"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Într-un ion divalent pozitiv, M2+, numărul electronilor este:",
+    "options": [
+      "Cu două unități mai mic decât numărul protonilor",
+      "Egal cu numărul protonilor",
+      "Cu două unități mai mare decât numărul protonilor",
+      "Cu o unitate mai mic decât numărul de neutroni"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Pentru ca o reacție chimică să aibă loc, energia complexului activat trebuie să fie:",
+    "options": [
+      "Egală cu energia de activare (Ea) sau mai mare decât pragul impus de Ea",
+      "Mai mică decât entalpia de reacție",
+      "Negativă pentru reacțiile spontane",
+      "Zero la temperaturi scăzute"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Ordinul total de reacție (n):",
+    "options": [
+      "Reprezintă suma ordinelor parțiale de reacție ale fiecărui reactant în parte",
+      "Este dat de concentrația produsului",
+      "Reprezintă timpul de înjumătățire",
+      "Este un parametru termodinamic"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Mărimi termodinamice de stare sunt:",
+    "options": [
+      "Diferențiale totale exacte",
+      "Parametri de drum",
+      "Funcții ale timpului de reacție",
+      "Dependențe de viteză"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În analiza volumetrică bazată pe reacții de neutralizare, indicatorul de pH cel mai potrivit:",
+    "options": [
+      "Este permanganatul de potasiu, deoarece este un autoindicator",
+      "Este iodura de potasiu",
+      "Este albastru de bromtimol",
+      "Este verde de metil"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Un catalizator:",
+    "options": [
+      "Accelerează doar reacțiile posibile din punct de vedere termodinamic",
+      "Este consumat complet în reacție",
+      "Crește energia de activare",
+      "Face reacția ireversibilă"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Reacția dintre tiosulfatul de sodiu și acidul sulfuric are printre produși:",
+    "options": [
+      "Sulful coloidal, responsabil de apariția opalescenței în mediul de reacție",
+      "Clorură de sodiu",
+      "Sulfat de potasiu",
+      "Oxigen molecular"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Afirmația corectă este:",
+    "options": [
+      "Variația de entropie a unui sistem e invers proporțională cu temperatura la care are loc transferul",
+      "Entropia scade la temperaturi mari",
+      "Entropia nu depinde de temperatură",
+      "Entropia este constantă pentru toate reacțiile"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "3 straturi - Fe are:",
+    "options": [
+      "14 electroni",
+      "12 electroni",
+      "10 electroni",
+      "16 electroni"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Compusul cu formula Mg(OH)₂ are următoarea denumire:",
+    "options": [
+      "Hidroxid de magneziu",
+      "Hidroxid de calciu",
+      "Hidroxid de mangan",
+      "Hidroxid de sodiu"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Presiunea parțială a unui gaz aflat într-un amestec:",
+    "options": [
+      "Este direct proporțională cu fracția molară a gazului",
+      "Este invers proporțională cu temperatura",
+      "Este independentă de volumul total",
+      "Este întotdeauna egală cu presiunea totală"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Energia liberă Gibbs variază în raport cu:",
+    "options": [
+      "Presiunea (p), temperatura (T) și avansul de reacție (λ)",
+      "Numărul de moli și volumul",
+      "Presiunea parțială a reactivilor",
+      "Masa molară și pH-ul"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Sunt reacţii de ordinul 1:",
+    "options": [
+      "Reacții de descompunere",
+      "Reacții de neutralizare",
+      "Reacții de oxidare",
+      "Reacții de polimerizare"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Procedura pentru determinarea experimentală a energiei de activare implică:",
+    "options": [
+      "Măsurarea vitezei de reacție la temperaturi diferite",
+      "Determinarea masei soluției",
+      "Calcularea presiunii",
+      "Aplicarea unui indicator"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Care din seriile următoare conțin numai substanțe al căror echivalent chimic se calculează împărțind masa moleculară (atomică) la cifra 2:",
+    "options": [
+      "H₄SiO₄, Zn(OH)₂, MnSO₄",
+      "NaCl, HCl, KNO₃",
+      "FeCl₃, NH₄NO₃, CuSO₄",
+      "H₂O, CO₂, CH₄"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Compusul cu formula NaHSO₃ are următoarea denumire:",
+    "options": [
+      "Sulfit acid de sodiu",
+      "Sulfat acid de sodiu",
+      "Tiosulfat de sodiu",
+      "Sulfit de potasiu"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Configurație electronică [Ne]3s²3p⁴ se află în:",
+    "options": [
+      "Grupa 6 și perioada 3",
+      "Grupa 5 și perioada 4",
+      "Grupa 7 și perioada 3",
+      "Grupa 4 și perioada 3"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Legile termochimiei sunt:",
+    "options": [
+      "Legea lui Hess, legea lui Kirchoff și legea Lavoisier-Laplace",
+      "Legea lui Avogadro, Boyle și Gay-Lussac",
+      "Legea lui Dalton și Charles",
+      "Legea lui Pascal și Joule"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Câți electroni are în stratul 3 un element cu configurația 1s²2s²2p⁶3s²3p⁶4s¹3d⁷:",
+    "options": [
+      "15",
+      "14",
+      "10",
+      "18"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Concentrația molară a unei soluții:",
+    "options": [
+      "Reprezintă numărul de moli de substanță care se regăsesc dizolvați într-un litru de soluție",
+      "Reprezintă masa dizolvată în 100 ml",
+      "Este exprimată în grame pe litru",
+      "Este egală cu densitatea soluției"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Un sistem închis:",
+    "options": [
+      "Nu schimbă nici substanță, nici energie cu mediul înconjurător",
+      "Permite schimb de substanță, dar nu de energie",
+      "Este în contact cu atmosfera",
+      "Are volum variabil"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Caracterul electropozitiv al elementelor variază astfel:",
+    "options": [
+      "Crește în perioadă de la dreapta la stânga și în grupele principale, de jos în sus",
+      "Scade în perioadă și grupă",
+      "Este constant pentru metale",
+      "Este maxim la halogeni"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Dacă se cunosc constantele de viteză ale unei reacții la două temperaturi diferite se poate determina:",
+    "options": [
+      "Energia de activare",
+      "Presiunea parțială",
+      "Entalpia standard",
+      "Concentrația molară"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Elementele din aceeași perioadă au:",
+    "options": [
+      "Același număr de straturi electronice",
+      "Același număr de neutroni",
+      "Același număr de electroni de valență",
+      "Aceeași masă atomică"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Compusul cu formula CrSO₄ are următoarea denumire:",
+    "options": [
+      "Sulfat de crom (II)",
+      "Sulfat de crom (III)",
+      "Sulfit de crom",
+      "Cromat de sodiu"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Presiunea parțială a unui gaz aflat într-un amestec:",
+    "options": [
+      "Este direct proporțională cu fracția molară a gazului",
+      "Este invers proporțională cu masa molară",
+      "Este egală pentru toate gazele",
+      "Este zero la echilibru"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "SiF₄ este:",
+    "options": [
+      "Tetrafluorură de siliciu",
+      "Tetrafluorură de sulf",
+      "Silicat de fluor",
+      "Fluorosilicat de sodiu"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Este un electrolit tare:",
+    "options": [
+      "HF",
+      "CH₃COOH",
+      "H₂CO₃",
+      "NH₃"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Numărul atomic (Z) reprezintă:",
+    "options": [
+      "Numărul protonilor din nucleu",
+      "Numărul de neutroni din nucleu",
+      "Numărul total de particule",
+      "Numărul de electroni de pe stratul extern"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Referitor la reacțiile de precipitare este corectă:",
+    "options": [
+      "Sunt reacții chimice în urma cărora se formează substanțe greu solubile, care se depun",
+      "Sunt reacții endotermice care implică transfer de protoni",
+      "Au loc exclusiv între două baze tari",
+      "Necesită un catalizator enzimatic"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În momentul începerii unei titrări:",
+    "options": [
+      "Trebuie ca nivelul titrantului din biuretă să fie exact la marcajul de 0 mL, sau sub acesta",
+      "Titrantul trebuie să acopere complet eprubeta",
+      "Titrantul se adaugă înainte de indicator",
+      "Titrantul trebuie încălzit"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Sarcina electrică a electronului este:",
+    "options": [
+      "Negativă (-1)",
+      "Pozitivă (+1)",
+      "Neutră",
+      "Variabilă"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Într-un atom, numărul electronilor este:",
+    "options": [
+      "Egal cu al protonilor",
+      "Mai mare decât al neutronilor",
+      "Egal cu masa atomică",
+      "Întotdeauna un număr par"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "HClO₄ este:",
+    "options": [
+      "Acid percloric",
+      "Acid clorhidric",
+      "Acid hipocloros",
+      "Acid cloric"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Ionul Fe²⁺ derivat din atomul cu configurația 1s²2s²2p⁶3s²3p⁶4s²3d⁶ are în stratul 3:",
+    "options": [
+      "14 electroni",
+      "12 electroni",
+      "16 electroni",
+      "10 electroni"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Prin logaritmarea expresiei constantei de viteză se obține:",
+    "options": [
+      "Ecuația unei drepte a cărei pantă este direct proporțională cu valoarea Ea",
+      "Formula energiei interne",
+      "Legea Boyle-Mariotte",
+      "Coeficientul de activitate"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Potenziale termodinamice sunt:",
+    "options": [
+      "G și F",
+      "T și P",
+      "Q și V",
+      "S și n"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În cazul catalizei omogene, catalizatorii sunt în general:",
+    "options": [
+      "Acizi, baze sau enzime",
+      "Metale nobile",
+      "Săruri insolubile",
+      "Coloranți"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "La baza construirii termometrului a stat:",
+    "options": [
+      "Principiul zero al termodinamicii",
+      "Legea lui Hess",
+      "Regula lui Hund",
+      "Teoria orbitalilor moleculari"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Caracterul electropozitiv al elementelor variază astfel:",
+    "options": [
+      "Scade în perioadă de la stânga la dreapta şi în grupele principale, de jos în sus",
+      "Crește în perioadă de la stânga la dreapta",
+      "Este constant pentru metale alcaline",
+      "Este același cu caracterul electronegativ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Elementul chimic reprezintă specia de atomi care:",
+    "options": [
+      "Are același număr de electroni",
+      "Are același număr de neutroni",
+      "Formează aceleași legături",
+      "Are aceeași configurație izotopică"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Energia de activare este:",
+    "options": [
+      "Nivelul energetic minim necesar pentru desfășurarea reacției",
+      "Diferența de entalpie dintre reactanți și produși",
+      "Timpul necesar pentru reacție",
+      "Temperatura de reacție"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Dacă variația de entalpie asociată cu desfășurarea unei reacții chimice este negativă:",
+    "options": [
+      "Are loc, în general, creșterea temperaturii mediului de reacție",
+      "Reacția este întotdeauna reversibilă",
+      "Reacția este de neutralizare",
+      "Volumul scade semnificativ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Pentru ca o reacție chimică să se desfășoare, energia complexului activat trebuie să fie:",
+    "options": [
+      "Egală cu energia de activare (Ea) sau mai mare decât pragul impus de Ea",
+      "Mai mică decât entalpia sistemului",
+      "Zero la echilibru",
+      "Mai mică decât energia de legătură"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Care dintre următoarele substanțe sunt molecule?",
+    "options": [
+      "CHCl₃",
+      "NaCl",
+      "Fe",
+      "C⁶⁺"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Un orbital de tip p:",
+    "options": [
+      "Conține maximum 2 electroni cu același spin",
+      "Poate conține 4 electroni",
+      "Este sferic",
+      "Nu apare la elemente din perioada 2"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "În alcalimetrie, titrantul este:",
+    "options": [
+      "O bază",
+      "Un acid",
+      "O sare",
+      "Un solvent"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Valorile entalpiilor standard de combustie ale substanțelor sunt:",
+    "options": [
+      "Negative",
+      "Pozitive",
+      "Zero",
+      "Dependente de pH"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Care dintre următorii compuși sunt molecule?",
+    "options": [
+      "HF",
+      "Na⁺",
+      "Cl⁻",
+      "Fe²⁺"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Sunt potențiale termodinamice:",
+    "options": [
+      "G și F",
+      "T și P",
+      "Q și W",
+      "H și n"
+    ],
+    "correctAnswer": 1
   }
 ]
