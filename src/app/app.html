@@ -1,0 +1,43 @@
+<div class="flash-card-app">
+  <h1>{{ title() }}</h1>
+  
+  <div *ngIf="!isQuizComplete && currentQuestion" class="quiz-container">
+    <app-flash-card
+      [question]="currentQuestion"
+      [currentIndex]="currentQuestionIndex"
+      [totalQuestions]="questions.length"
+      [isLastQuestion]="currentQuestionIndex === questions.length - 1"
+      (answerSubmitted)="onAnswerSubmitted($event)"
+      (nextCard)="onNextCard()">
+    </app-flash-card>
+  </div>
+  
+  <div *ngIf="isQuizComplete" class="results-container">
+    <h2>Quiz Complete!</h2>
+    <div class="score-summary">
+      <p>Your Score: {{score}} / {{questions.length}} ({{scorePercentage}}%)</p>
+      <div class="score-bar">
+        <div class="score-fill" [style.width.%]="scorePercentage"></div>
+      </div>
+    </div>
+    
+    <div class="answers-review">
+      <h3>Review Your Answers:</h3>
+      <div *ngFor="let answer of answers; let i = index" class="answer-review">
+        <p><strong>Q{{i + 1}}:</strong> {{questions[i].question}}</p>
+        <p class="answer-result" [class.correct]="answer.isCorrect" [class.incorrect]="!answer.isCorrect">
+          Your answer: {{questions[i].options[answer.selectedAnswer]}} 
+          <span *ngIf="!answer.isCorrect">(Correct: {{questions[i].options[questions[i].correctAnswer - 1]}})</span>
+        </p>
+      </div>
+    </div>
+    
+    <button class="restart-button" (click)="restartQuiz()">Try Again</button>
+  </div>
+  
+  <div *ngIf="questions.length === 0" class="loading">
+    Loading questions...
+  </div>
+</div>
+
+<router-outlet />
