@@ -1,0 +1,112 @@
+[
+  {
+    "question": "Pentru legăturile covalente, afirmația corectă este:",
+    "options": [
+      "Se realizează între atomi elementelor cu caracter electropozitiv",
+      "Sunt rigide și orientate în spațiu",
+      "Conduc la compuși care cristalizează în rețele ionice",
+      "Se formează prin punere în comun de electroni cuplați din stratul de valență",
+      "Se realizează prin transfer de electron"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Referitor la reacțiile redox este corectă afirmația:",
+    "options": [
+      "Reducătorul acceptă electroni",
+      "Oxidantul acceptă electroni",
+      "Reducătorul cedează protoni",
+      "Numărul electronilor cedați este mai mare decât cel al electronilor acceptați",
+      "Oxidantul acceptă protoni"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Legătura chimică din H2S este:",
+    "options": [
+      "Covalentă polară",
+      "Dipol-dipol",
+      "Electrovalentă",
+      "Covalentă nepolară",
+      "De hidrogen"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Un orbital de tip p:",
+    "options": [
+      "Este format din 4 lobi, situați pe axele de coordonate x și y",
+      "Conține maximum 4 electroni cu spin opus",
+      "Are formă sferică",
+      "Este format din doi lobi egali, situați de o parte și de alta a nucleului, pe una din cele trei axe de coordonate",
+      "Conține maximum 2 electroni cu același spin"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Alegeți afirmația falsă cu privire la energia internă:",
+    "options": [
+      "Energia internă a unui sistem este suma dintre energia cinetică și potențială a particulelor ce formează sistemul",
+      "Energia internă a unui sistem reprezintă diferența dintre energia totală a sistemului și suma energiilor cinetică și potențială a sistemului",
+      "Energia internă se mai numește și entalpie",
+      "Energia unui sistem depinde doar de starea inițială și de cea finală a sistemului",
+      "Energia internă este o funcție de stare"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Electronii cuplați reprezintă:",
+    "options": [
+      "Doi electroni cu același spin, din orbitali diferiți",
+      "Electronii ns1 ai metalelor alcaline",
+      "Doi electroni cu spin opus, dintr-un orbital atomic",
+      "Electronii acceptați de un atom la formarea unui anion",
+      "Electronii cu spin opus, din doi orbitali diferiți"
+    ],
+    "correctAnswer": 5
+  },
+  {
+    "question": "În învelișul electronic al unui atom sunt:",
+    "options": [
+      "Electroni și neutroni",
+      "Electroni",
+      "Neutroni",
+      "Electroni și protoni",
+      "Proton"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Curba de etalonare pentru determinarea cantitativă a fosforului printr-o metodă colorimetrică:",
+    "options": [
+      "Se realizează cu ajutorul unei serii de soluții de diverși electroliți de concentrație cunoscută",
+      "Se realizează cu ajutorul unei serii de soluții de molibdat de amoniu de concentrație cunoscută",
+      "Se realizează cu ajutorul unei serii de diluții ale unei soluții standard de fosfor",
+      "Are ca scop verificarea valabilității reactivilor și a funcționării metodei",
+      "Se realizează cu ajutorul unei serii de soluții reductoare de hidroxilamină de concentrație cunoscută"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Entropia este o măsură a:",
+    "options": [
+      "Energiei libere Gibbs",
+      "Gradului de dezordine internă a unui sistem",
+      "Energiei interne a unui sistem",
+      "A lucrului efectuat de către un sistem pentru a ajunge din starea inițială în starea finală",
+      "A entalpiei unui sistem"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Un sistem închis:",
+    "options": [
+      "Nu schimbă nici substanță, nici energie cu mediul înconjurător",
+      "Schimbă energie cu mediul înconjurător dar nu schimbă substanță",
+      "Schimbă substanță dar nu schimbă energie cu mediul înconjurător",
+      "Schimbă substanță și energie cu mediul înconjurător",
+      "Toate răspunsurile sunt corecte"
+    ],
+    "correctAnswer": 1
+  }
+]
