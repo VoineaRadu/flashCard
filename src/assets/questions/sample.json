@@ -96,7 +96,7 @@
       "A lucrului efectuat de către un sistem pentru a ajunge din starea inițială în starea finală",
       "A entalpiei unui sistem"
     ],
-    "correctAnswer": 4
+    "correctAnswer": 2
   },
   {
     "question": "Un sistem închis:",
@@ -129,7 +129,7 @@
       "Sunt metode de analiză calitativă",
       "Se bazează pe măsurarea exactă a volumului de soluție etalon consumat în reacție cu analitul"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 5
   },
   {
     "question": "Într-un ion divalent pozitiv, M2+, numărul electronilor este",
@@ -141,17 +141,6 @@
       "Egal cu suma protonilor și neutronilor"
     ],
     "correctAnswer": 2
-  },
-  {
-    "question": "Metodele de analiză volumetrică:",
-    "options": [
-      "Se bazează pe măsurarea exactă a volumului de soluție de analit consumat în reacție cu etalonul",
-      "Sunt metode de analiză calitativă",
-      "Se bazează pe măsurarea exactă a volumului de soluție etalon consumat în reacție cu analitul",
-      "Sunt metode analitice cantitative, bazate pe măsurarea volumelor de soluții de analiți",
-      "Se referă la modalitățile de calibrare a instrumentelor de laborator folosite pentru măsurarea volumelor"
-    ],
-    "correctAnswer": 4
   },
   {
     "question": "În cazul unei soluții aproximative:",
@@ -195,7 +184,7 @@
       "13 electroni",
       "14 electroni"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 4
   },
   {
     "question": "Paharul Berzelius este un instrument de laborator:",
@@ -385,17 +374,6 @@
     "correctAnswer": 3
   },
   {
-    "question": "Câți electroni are în stratul 3 un element cu următoarea configurație: 1s22s22p63s23p64s13d5:",
-    "options": [
-      "2 electroni",
-      "13 electroni",
-      "14 electroni",
-      "6 electroni",
-      "8 electroni"
-    ],
-    "correctAnswer": 2
-  },
-  {
     "question": "Dintre speciile următoare I2, HBr, H2O, NH3, H2S, sunt molecule nepolare:",
     "options": [
       "I2",
@@ -404,7 +382,7 @@
       "NH3",
       "H2S"
     ],
-    "correctAnswer": 1
+    "correctAnswer": 5
   },
   {
     "question": "La baza construirii termometrului a stat:",
@@ -418,7 +396,7 @@
     "correctAnswer": 1
   },
   {
-    "question": "Alegeți afirmația incorectă cu privire la condițiile pe care trebuie să le îndeplinească un indicator de pH:",
+    "question": "Alegeți afirmația corecta cu privire la condițiile pe care trebuie să le îndeplinească un indicator de pH:",
     "options": [
       "Indicatorul să fie solubil în apă cu alcool",
       "Schimbare de culoare să se producă brusc, într-un interval de pH cât mai mic",
@@ -426,7 +404,7 @@
       "Schimbarea de culoare să fie reversibilă",
       "Indicatorul să fie foarte sensibil la modificarea pH-ului pentru a putea fi folosit în cantități mici"
     ],
-    "correctAnswer": 3
+    "correctAnswer": 2
   },
   {
     "question": "Elementele din grupele principale ale sistemului periodic au pe ultimul strat un număr de electroni egal cu numărul:",
@@ -447,6 +425,28 @@
       "Este produsul dintre titrul real și cel teoretic al unei soluții",
       "Are valoarea 0, 1 sau 2",
       "Este întotdeauna egal cu 1 în cazul soluțiilor aproximative"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Este un electrolit tare:",
+    "options": [
+      "NaCL",
+      "HF",
+      "I2",
+      "CH3OOH",
+      "CH3OH"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Un acid este o substanta care:",
+    "options": [
+      "Are tendinta de a ceda protoni",
+      "Are tendinta de a accepta protoni",
+      "Are tendinta de a ceda electroni",
+      "Are tendinta de a accepta electroni",
+      "Prin acceptare unui proton se transforma in baza sa conjugate"
     ],
     "correctAnswer": 1
   }

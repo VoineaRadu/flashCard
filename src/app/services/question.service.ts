@@ -10,15 +10,16 @@ import { Question } from '../models/question.model';
 export class QuestionService {
   constructor(private http: HttpClient) {}
 
-  // loadQuestions(fileName: string): Observable<Question[]> {
-  //   return this.http.get<Question[]>(`assets/questions/${fileName}.json`).pipe(
-  //     map(questions => this.shuffleArray(questions).map(question => this.shuffleAnswers(question)))
-  //   );
-  // }
-
   loadQuestions(fileName: string): Observable<Question[]> {
-    return this.http.get<Question[]>(`assets/questions/${fileName}.json`);
+    return this.http.get<Question[]>(`assets/questions/${fileName}.json`).pipe(
+      map(questions => this.shuffleArray(questions).map(question => this.shuffleAnswers(question)))
+    );
   }
+
+  // loadQuestions(fileName: string): Observable<Question[]> {
+  //   return this.http.get<Question[]>(`assets/questions/${fileName}.json`);
+  // }
+  //
 
   private shuffleArray<T>(array: T[]): T[] {
     const shuffled = [...array];
